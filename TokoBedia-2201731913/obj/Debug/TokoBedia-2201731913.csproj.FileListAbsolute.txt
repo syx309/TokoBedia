@@ -1,0 +1,145 @@
+c:\users\user\documents\visual studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\bin\ApplicationInsights.config
+c:\users\user\documents\visual studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\csc.exe
+c:\users\user\documents\visual studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\user\documents\visual studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\user\documents\visual studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\System.Collections.Immutable.dll
+c:\users\user\documents\visual studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\user\documents\visual studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\vbc.exe
+c:\users\user\documents\visual studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\VBCSCompiler.exe
+c:\users\user\documents\visual studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\VBCSCompiler.exe.config
+c:\users\user\documents\visual studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\bin\TokoBedia-2201731913.dll.config
+c:\users\user\documents\visual studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\bin\TokoBedia-2201731913.dll
+c:\users\user\documents\visual studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\bin\TokoBedia-2201731913.pdb
+c:\users\user\documents\visual studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\user\documents\visual studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\user\documents\visual studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\user\documents\visual studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\user\documents\visual studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.AI.Web.dll
+c:\users\user\documents\visual studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.AI.WindowsServer.dll
+c:\users\user\documents\visual studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.ApplicationInsights.dll
+c:\users\user\documents\visual studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\user\documents\visual studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\user\documents\visual studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\user\documents\visual studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.AI.Web.xml
+c:\users\user\documents\visual studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.AI.WindowsServer.xml
+c:\users\user\documents\visual studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.ApplicationInsights.xml
+c:\users\user\documents\visual studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\user\documents\visual studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\obj\Debug\TokoBedia-2201731913.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\obj\Debug\TokoBedia-2201731913.dll
+c:\users\user\documents\visual studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\obj\Debug\TokoBedia-2201731913.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\bin\EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\bin\EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TokoBedia-2201731913\TokoBedia-2201731913\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\obj\Debug\TokoBedia-2201731913.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\obj\Debug\TokoBedia-2201731913.dll
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\obj\Debug\TokoBedia-2201731913.pdb
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\ApplicationInsights.config
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\TokoBedia-2201731913.dll.config
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\TokoBedia-2201731913.dll
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\TokoBedia-2201731913.pdb
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\EntityFramework.dll
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\EntityFramework.xml
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\obj\Debug\TokoBedia-2201731913.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\obj\Debug\TokoBedia-2201731913.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\obj\Debug\TokoBedia-2201731913.pdb
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\ApplicationInsights.config
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\csc.exe
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\vbc.exe
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\TokoBedia-2201731913.dll.config
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\TokoBedia-2201731913.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\TokoBedia-2201731913.pdb
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\CrystalDecisions.ReportSource.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\CrystalDecisions.Shared.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\CrystalDecisions.Web.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\EntityFramework.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.AI.Web.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\stdole.dll
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\EntityFramework.xml
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.AI.Web.xml
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.ApplicationInsights.xml
+C:\Users\USER\Desktop\TokoBedia-2201731913\TokoBedia-2201731913\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\CrystalDecisions.ReportSource.dll
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\CrystalDecisions.Shared.dll
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\CrystalDecisions.Web.dll
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\User\Desktop\Quiz dan Project LAB SEM 4\PSD Project\TokoBedia-2201731913\TokoBedia-2201731913\bin\stdole.dll
